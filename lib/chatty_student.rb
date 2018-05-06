@@ -22,5 +22,6 @@ def raise_hand
   super
   super
 end
+end
 
 end
